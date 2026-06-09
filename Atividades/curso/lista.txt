@@ -1,0 +1,3 @@
+Funcionalidade: Gerenciamento de compras onlines, sistema de organização do que o cliente precisa comprar ou até mesmo agender a compra dos produtos que esteja precisando.
+Algoritmo: O usuário teria sua conta no aplicativo, faria seu login, e personalizaria sua experiência ali de acordo com o que ele precisa, tanto fazendo listas ou adicionando produtos ao carrinho, agendendo compras e entre outros
+Teste: Selecionariamos algumas pessoas para fazer parte do sistema de teste, criando usuários para elas e utilizando as funções que ele oferece pra conferir se tudo vai funcionar como o esperado.
